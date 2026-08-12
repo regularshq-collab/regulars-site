@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Add your Sitemap line here once you point a custom domain at the site, e.g.
-# Sitemap: https://your-domain.com/sitemap.xml
